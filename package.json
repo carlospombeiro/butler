@@ -1,0 +1,23 @@
+{
+  "name": "butler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "linebyline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospombeiro/butler.git"
+  },
+  "author": "carlospombeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlospombeiro/butler/issues"
+  },
+  "homepage": "https://github.com/carlospombeiro/butler#readme"
+}
